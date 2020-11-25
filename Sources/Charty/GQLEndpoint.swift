@@ -8,7 +8,7 @@
 
 import Foundation
 import Combine
-import Cabinet
+import CabinetPartialTypes
 
 public class GQLEndpoint {
 
