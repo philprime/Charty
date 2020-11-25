@@ -1,0 +1,222 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint+Error.swift",
+      "line": 11,
+      "symbol": "GQLEndpoint.Error",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint+Error.swift",
+      "line": 12,
+      "symbol": "GQLEndpoint.Error.notFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint+Error.swift",
+      "line": 13,
+      "symbol": "GQLEndpoint.Error.invalidResponseBody",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint+Error.swift",
+      "line": 14,
+      "symbol": "GQLEndpoint.Error.graphQLException(exception:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 9,
+      "symbol": "GQLEndpoint",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 13,
+      "symbol": "GQLEndpoint",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 17,
+      "symbol": "GQLEndpoint.init(url:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 21,
+      "symbol": "GQLEndpoint.send(_:arguments:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 26,
+      "symbol": "GQLEndpoint.send(_:arguments:fields:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 44,
+      "symbol": "GQLEndpoint.send(_:arguments:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLEndpoint.swift",
+      "line": 49,
+      "symbol": "GQLEndpoint.send(_:arguments:fields:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLField.swift",
+      "line": 9,
+      "symbol": "GQLField",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLField.swift",
+      "line": 11,
+      "symbol": "GQLField.named(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLField.swift",
+      "line": 12,
+      "symbol": "GQLField.nested(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLInput.swift",
+      "line": 9,
+      "symbol": "GQLInput",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperation.swift",
+      "line": 9,
+      "symbol": "GQLOperation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationMutation.swift",
+      "line": 9,
+      "symbol": "GQLOperationMutation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationMutation.swift",
+      "line": 11,
+      "symbol": "GQLOperationMutation.init(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationQuery.swift",
+      "line": 9,
+      "symbol": "GQLOperationQuery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationQuery.swift",
+      "line": 11,
+      "symbol": "GQLOperationQuery.init(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationType.swift",
+      "line": 9,
+      "symbol": "GQLOperationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationType.swift",
+      "line": 11,
+      "symbol": "GQLOperationType.query",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLOperationType.swift",
+      "line": 12,
+      "symbol": "GQLOperationType.mutation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLResultType.swift",
+      "line": 9,
+      "symbol": "GQLResultType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLResultType.swift",
+      "line": 11,
+      "symbol": "GQLResultType.allFields",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLType.swift",
+      "line": 9,
+      "symbol": "GQLType",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLType.swift",
+      "line": 11,
+      "symbol": "GQLType.Empty",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLType.swift",
+      "line": 13,
+      "symbol": "GQLType.Empty.allFields",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GQLTypes.swift",
+      "line": 9,
+      "symbol": "ID",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GraphQLErrorResponse.swift",
+      "line": 11,
+      "symbol": "GraphQLErrorResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/Charty/Charty/Sources/Charty/GraphQLResponse.swift",
+      "line": 9,
+      "symbol": "GraphQLResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Charty/Charty"
+}
